@@ -69,6 +69,6 @@ theme: maupassant
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: git@github.com:wintersunshines/wintersunshines.github.io.git
+  repo: git@wintersunshines.github.com:wintersunshines/wintersunshines.github.io.git
   branch: master
   message: 发布到gh-pages
