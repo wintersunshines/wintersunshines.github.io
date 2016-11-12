@@ -4,7 +4,7 @@ title: shim在项目中的正确运用
 description: 追随主流API,在项目中优雅使用shim处理
 toc: true
 category: blog
-tags: shim
+tags: [shim,测试]
 ---
 
 #### 何为Shim
